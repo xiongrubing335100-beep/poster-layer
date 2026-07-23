@@ -18,6 +18,10 @@
 
 该版本用于验收测试，保持不可变；后续改动应创建新的版本目录，而非覆盖 v3.1。
 
+### 相关链接
+
+- [飞书文档](https://my.feishu.cn/wiki/CaYZw2QiKizHw9kaCgdczlvWnHe?from=from_copylink)
+
 ### 文件结构
 
 ```text
